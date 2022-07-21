@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "kegbot-overview-docs"
+version = "0.1.0"
+description = "Sphinx project for the docs.kegbot.org landing page."
+authors = ["The Kegbot Contributors"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+Sphinx = "^5.0.2"
+myst-parser = "^0.18.0"
+sphinx-autobuild = "^2021.3.14"
+furo = {git = "https://github.com/Kegbot/furo", rev = "kegbot/kegbot"}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
