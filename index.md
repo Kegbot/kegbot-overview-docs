@@ -7,6 +7,9 @@ Welcome to the Kegbot Project documentation index.
 [**Kegbot Server Documentation**](https://docs.kegbot.org/projects/kegbot-server)
 : Documentation for Kegbot Server, the brains of any Kegbot system. A great place to start if you're just building a Kegbot.
 
+[**Kegboard Documentation**](https://docs.kegbot.org/projects/kegboard)
+: Information about building, flashing, and using **Kegboard**, our open source keg monitor firmware. Kegboard reads flow meters and reports sensor data to Kegbot Server.
+
 ---
 
 ## Getting Help
