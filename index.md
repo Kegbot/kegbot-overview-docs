@@ -1,8 +1,10 @@
-# Kegbot Project Documentation
+# Kegbot Project Docs
 
-Welcome to the Kegbot Project documentation index.
+Welcome to the Kegbot Project documentation index. This is the place where the official documentation for each Kegbot component lives.
 
-## Projects
+For a more general overview, please head over to the [Kegbot Project Home Page](https://kegbot.org/).
+
+## Documentation Index
 
 [**Kegbot Server Documentation**](https://docs.kegbot.org/projects/kegbot-server)
 : Documentation for Kegbot Server, the brains of any Kegbot system. A great place to start if you're just building a Kegbot.
@@ -26,7 +28,7 @@ We'd love your help and contributions! Please visit the [Developers Forum](https
 
 Unless otherwise noted, all Kegbot project code and assets are licensed under the MIT License, which has the following terms:
 
-```txt
+```text
 Copyright 2003-2022 The Kegbot Project Contributors <info@kegbot.org>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose
